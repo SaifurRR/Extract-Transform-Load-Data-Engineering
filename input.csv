@@ -1,0 +1,20 @@
+location_code,disease,prevalence,population
+01,diabetes,1277,18063
+02,diabetes,1344,11123
+04,diabetes,603,11545
+12,diabetes,1265,19140
+06,diabetes,1943,11811
+08,diabetes,584,9037
+01,pneumonia,1482,18063
+01,cancer,344,18063
+04,cancer,351,11545
+01,heart disease,1217,18063
+02,heart disease,542,11123
+04,heart disease,474,11545
+12,cancer,1440,19140
+02,cancer,1324,11123
+05,heart disease,947,26111
+06,heart disease,1979,11811
+12,heart disease,1006,19140
+06,pneumonia,1260,11811
+08,pneumonia,1655,9037
